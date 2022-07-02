@@ -19,8 +19,8 @@
 #include "config_common.h"
 
 /* USB Device descriptor paramater */
-#define VENDOR_ID       0x006a   // Jels (J)
-#define PRODUCT_ID      0x0087  // Jels 88
+#define VENDOR_ID       0x6a6b   // Jels (JK)
+#define PRODUCT_ID      0x0087  // Jels 87
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Jels
 #define PRODUCT         Jels87
