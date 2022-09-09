@@ -1,0 +1,11 @@
+{
+    "keyboard_name": "BigAlice",
+    "manufacturer": "Jels",
+    "url": "",
+    "maintainer": "Jels",
+    "usb": {
+        "vid": "0x6A6B",
+        "pid": "0x0099",
+        "device_version": "0.0.1"
+    }
+}
